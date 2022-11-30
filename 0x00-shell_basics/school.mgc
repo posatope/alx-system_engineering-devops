@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -F -H SCHOOL ./
+grep -F -H "SCHOOL" ./
