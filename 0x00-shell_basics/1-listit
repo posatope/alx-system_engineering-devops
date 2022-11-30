@@ -1,2 +1,2 @@
 #!/bin/bash
-ls
+echo ‘The absolute path is’ $ls
