@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -s ($cd ~) ($pwd) /boot
+ls -s 
