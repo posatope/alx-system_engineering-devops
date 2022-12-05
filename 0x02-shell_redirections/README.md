@@ -1,3 +1,2 @@
-#!/bin/bash
-0-hello_world prints "Hello, World",followed by a new line to the standard output
-1-confused_smiley
+# This file is for shell redirection assignment
+# Hoping to learn and understand this better as the time goes
