@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%s" "$(</etc/passwd)"
+printf "%s\n" "$(</etc/passwd)"
